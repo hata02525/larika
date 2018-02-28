@@ -1,0 +1,287 @@
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.example.fluper.larika_user_app.utils.StretchTopScrollView
+            android:id="@+id/stretchTopScrollView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/transparent"
+            tools:context="com.example.fluper.larika_user_app.
+            fragment.HomeItemFragment">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <FrameLayout
+                        android:id="@+id/main_strechLayout"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <ImageView
+                            android:id="@+id/iv_covrImg"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+
+                            android:src="@drawable/cake"
+                            android:scaleType="centerCrop" />
+                        <TextView
+                            android:id="@+id/tv_dishPrice"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="bottom"
+                            android:layout_marginBottom="@dimen/dp_20"
+                            android:layout_marginLeft="@dimen/dp_20"
+                            android:layout_marginRight="@dimen/dp_20"
+                            android:background="@color/black"
+                            android:gravity="center"
+                            android:padding="@dimen/dp_10"
+                            android:text="Eat it! - R$6,50"
+                            android:textColor="@color/white" />
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@drawable/gradiant_bg"
+                            android:gravity="center_vertical">
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:id="@+id/rl_dish_background"
+                                android:visibility="visible"
+                                android:background="@drawable/dish_place">
+                            </RelativeLayout>
+
+                            <ImageView
+                                android:id="@+id/iv_logo"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="@dimen/dp_20"
+                                android:src="@mipmap/logo_p" />
+
+                            <com.example.fluper.larika_user_app.fonts.MonstratBoldTextView
+                                android:id="@+id/tv_dishName"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@+id/iv_logo"
+                                android:layout_marginLeft="@dimen/dp_20"
+                                android:singleLine="true"
+                                android:text="Ham With\nCheese\nSandwitch"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/sp_35"
+                                android:textStyle="bold" />
+
+                            <View
+                                android:id="@+id/ryryy"
+                                android:layout_width="@dimen/dp_40"
+                                android:layout_height="2dp"
+                                android:layout_below="@+id/tv_dishName"
+                                android:layout_marginLeft="@dimen/dp_20"
+                                android:layout_marginTop="@dimen/dp_10"
+                                android:background="@color/white" />
+
+                            <com.example.fluper.larika_user_app.fonts.RobotoMediumTextView
+                                android:id="@+id/tv_discDesc"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_below="@+id/ryryy"
+                                android:layout_marginLeft="@dimen/dp_20"
+                                android:layout_marginTop="@dimen/dp_10"
+                                android:text="Ham Withfsfsrr fsferw\ndiakdhadhahhf"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/sp_22"
+                                android:textStyle="bold" />
+
+                            <Space
+                                android:id="@+id/ofkdas"
+                                android:layout_width="match_parent"
+                                android:layout_height="400dp"
+                                android:layout_below="@+id/tv_discDesc" />
+                        </RelativeLayout>
+                    </FrameLayout>
+
+                    <include layout="@layout/bottom_card_layout" />
+
+                </LinearLayout>
+        </com.example.fluper.larika_user_app.utils.StretchTopScrollView>
+
+
+        <RelativeLayout
+            android:id="@+id/rl_home_transparency"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/rl_top"
+            android:background="#D8000000"
+            android:visibility="gone">
+
+            <RelativeLayout
+                android:id="@+id/rl_filter_dialog"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/dp_30"
+                android:layout_marginLeft="@dimen/dp_20"
+                android:layout_marginRight="@dimen/dp_20"
+                android:background="@android:color/transparent">
+                <TextView
+                    android:id="@+id/tv_keep_looking"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_centerHorizontal="true"
+                    android:text="Cancel"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/sp_16" />
+                <RelativeLayout
+                    android:id="@+id/rl_dialogLayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_above="@+id/tv_keep_looking"
+                    android:layout_marginBottom="@dimen/dp_50"
+                    android:background="@drawable/order_dialog_bg">
+                    <com.example.fluper.larika_user_app.fonts.MonstratRegularTextView
+                        android:id="@+id/tv_order"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="0dp"
+                        android:clickable="true"
+                        android:padding="@dimen/dp_10"
+                        android:text="Your order"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/sp_18" />
+
+                    <View
+                        android:id="@id/view1"
+                        android:layout_width="match_parent"
+                        android:layout_height="0.33dp"
+                        android:layout_below="@+id/tv_order"
+                        android:layout_marginTop="4dp"
+                        android:background="@color/account_color" />
+
+                    <RelativeLayout
+                        android:id="@+id/rl_list"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/view1"
+                        android:background="@color/dull_white">
+
+                        <ListView
+                            android:id="@+id/list_view"
+                            android:layout_width="wrap_content"
+                            android:layout_height="80dp"
+                            android:layout_marginTop="4dp"
+                            android:divider="@color/account_color"
+                            android:dividerHeight="0.33dp"
+                            android:minHeight="80dp"
+                            android:visibility="visible" />
+                    </RelativeLayout>
+
+                    <TextView
+                        android:id="@+id/tv_total"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/rl_list"
+                        android:layout_marginLeft="8dp"
+                        android:layout_marginTop="@dimen/dp_16"
+                        android:text="Total"
+                        android:textColor="@color/text_color"
+                        android:textSize="16sp" />
+
+                    <TextView
+                        android:id="@+id/tv_total_price"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/rl_list"
+                        android:layout_marginLeft="@dimen/dp_16"
+                        android:layout_marginTop="@dimen/dp_16"
+                        android:layout_toRightOf="@+id/tv_total"
+                        android:textColor="@color/black"
+                        android:textSize="16sp" />
+
+
+                    <RelativeLayout
+                        android:id="@+id/rl_card"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/tv_total">
+                        <TextView
+                            android:id="@+id/text_no_card"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:visibility="visible"
+                            android:layout_marginLeft="8dp"
+                            android:layout_marginTop="@dimen/dp_16"
+                            android:text="No card available"
+                            android:textColor="@color/black"
+                            android:textSize="16sp"
+                           />
+
+                        <RelativeLayout
+                            android:id="@+id/rl_childcard"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:id="@+id/iv_card"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="8dp"
+                            android:layout_marginTop="@dimen/dp_16"
+                            android:src="@mipmap/visa"
+                            android:visibility="visible" />
+
+                        <TextView
+                            android:id="@+id/tv_card_detail"
+                            android:layout_width="wrap_content"
+
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="6dp"
+                            android:layout_marginTop="@dimen/dp_16"
+                            android:layout_marginRight="2dp"
+                            android:layout_toRightOf="@+id/iv_card"
+                            android:text="Add Card"
+                            android:layout_toLeftOf="@+id/right_arrow"
+                            android:textColor="@color/text_color"
+                            android:textSize="18sp" />
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginTop="@dimen/dp_16"
+
+                            android:src="@mipmap/right_arrow" />
+                        </RelativeLayout>
+
+                    </RelativeLayout>
+
+                    <TextView
+                        android:id="@+id/tv_find_meeting_point"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:layout_below="@+id/rl_card"
+                        android:layout_gravity="bottom"
+                        android:layout_marginBottom="@dimen/dp_10"
+                        android:layout_marginLeft="@dimen/dp_12"
+                        android:layout_marginRight="@dimen/dp_12"
+                        android:layout_marginTop="20dp"
+                        android:background="@color/light_blue"
+                        android:gravity="center"
+                        android:padding="@dimen/dp_10"
+                        android:text="Find meeting point"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/sp_16" />
+                </RelativeLayout>
+            </RelativeLayout>
+        </RelativeLayout>
+
+
+    </FrameLayout>
+</layout>

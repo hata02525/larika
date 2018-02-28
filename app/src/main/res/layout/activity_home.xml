@@ -1,0 +1,245 @@
+<layout>
+
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:id="@+id/main_container"
+        tools:context="com.example.fluper.larika_user_app.activity.HomeActivity">
+
+        <TextView
+            android:visibility="gone"
+            android:id="@+id/tv_no_dish"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="No Dish found"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textSize="@dimen/sp_20"/>
+
+
+        <com.example.fluper.larika_user_app.utils.CustomViewPager
+            android:id="@+id/viewPager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <RelativeLayout
+            android:id="@+id/rl_top"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dp_22">
+
+            <ImageView
+                android:visibility="gone"
+                android:id="@+id/iv_logo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/dp_20"
+                android:src="@mipmap/logo_p" />
+
+            <ImageView
+                android:id="@+id/iv_filter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="@dimen/dp_55"
+                android:src="@mipmap/filter" />
+
+            <ImageView
+                android:id="@+id/tv_home"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="@dimen/dp_10"
+                android:src="@mipmap/home" />
+        </RelativeLayout>
+        <RelativeLayout
+            android:id="@+id/viewPagerIndicator"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_50"
+            android:layout_gravity="bottom"
+            android:layout_marginBottom="60dp"
+            android:layout_marginTop="@dimen/dp_5"
+            android:gravity="center">
+
+            <LinearLayout
+                android:id="@+id/viewPagerCountDots"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerHorizontal="true"
+                android:gravity="center"
+                android:orientation="horizontal" />
+        </RelativeLayout>
+
+
+
+        <RelativeLayout
+            android:id="@+id/rl_transparency"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/rl_top"
+            android:background="#ef000000"
+            android:visibility="gone">
+
+            <RelativeLayout
+                android:id="@+id/rl_filter_dialog"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_marginLeft="@dimen/dp_20"
+                android:layout_marginRight="@dimen/dp_20"
+                android:background="@android:color/transparent">
+
+                <RelativeLayout
+                    android:id="@+id/rl_dialogLayout"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/rectangle_white_border">
+
+                    <com.example.fluper.larika_user_app.fonts.MonstratLightTextView
+                        android:id="@+id/tv_all"
+                        android:layout_width="@dimen/dp_200"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="25dp"
+                        android:background="@drawable/rectangle_white_border"
+                        android:clickable="true"
+                        android:gravity="center"
+                        android:padding="@dimen/dp_10"
+                        android:text="ALL"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/sp_18" />
+
+                    <com.example.fluper.larika_user_app.fonts.MonstratLightTextView
+                        android:id="@+id/tv_savry"
+                        android:layout_width="@dimen/dp_200"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/tv_all"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/dp_20"
+                        android:gravity="center"
+                        android:padding="@dimen/dp_10"
+                        android:text="SAVORY"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/sp_18" />
+
+                    <com.example.fluper.larika_user_app.fonts.MonstratLightTextView
+                        android:id="@+id/tv_sweet"
+                        android:layout_width="@dimen/dp_200"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/tv_savry"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/dp_20"
+                        android:gravity="center"
+                        android:padding="@dimen/dp_10"
+                        android:text="SWEET"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/sp_18" />
+
+                    <View
+                        android:id="@+id/gdfgg"
+                        android:layout_width="@dimen/dp_10"
+                        android:layout_height="@dimen/dp_10"
+                        android:layout_below="@+id/tv_sweet"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/dp_10"
+                        android:background="@drawable/white_circle" />
+
+                    <com.example.fluper.larika_user_app.fonts.MonstratLightTextView
+                        android:id="@+id/tv_veg"
+                        android:layout_width="@dimen/dp_200"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/gdfgg"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/dp_20"
+                        android:gravity="center"
+                        android:padding="@dimen/dp_10"
+                        android:text="VEGETARIAN"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/sp_18" />
+
+                    <com.example.fluper.larika_user_app.fonts.MonstratLightTextView
+                        android:id="@+id/tv_fitness"
+                        android:layout_width="@dimen/dp_200"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/tv_veg"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/dp_20"
+                        android:gravity="center"
+                        android:padding="@dimen/dp_10"
+                        android:text="FITNESS"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/sp_18" />
+
+                    <com.example.fluper.larika_user_app.fonts.MonstratLightTextView
+                        android:id="@+id/tv_greasy"
+                        android:layout_width="@dimen/dp_200"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/tv_fitness"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginBottom="@dimen/dp_30"
+                        android:layout_marginTop="@dimen/dp_20"
+                        android:gravity="center"
+                        android:padding="@dimen/dp_10"
+                        android:text="GREASY"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/sp_18" />
+
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <ImageView
+                android:id="@+id/img_cross"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="20dp"
+                android:src="@mipmap/cross_white" />
+        </RelativeLayout>
+
+
+
+
+
+        <RelativeLayout
+            android:id="@+id/rl_order_confirmation"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/rl_top"
+            android:background="#D8000000"
+            android:visibility="gone">
+
+           <ImageView
+               android:id="@+id/img_done"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_centerInParent="true" />
+            <TextView
+                android:layout_marginTop="@dimen/dp_16"
+                android:layout_below="@+id/img_done"
+                android:layout_centerHorizontal="true"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:textSize="@dimen/sp_20"
+                android:textAlignment="center"
+                android:text="Congratulations ! \nyour order was completed"/>
+
+            <ImageView
+                android:id="@+id/img_order_cross"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="20dp"
+                android:src="@mipmap/cross_white" />
+        </RelativeLayout>
+
+
+    </FrameLayout>
+
+</layout>

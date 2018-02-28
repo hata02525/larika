@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="120sp"
+        android:layout_marginLeft="8sp"
+        android:layout_below="@+id/main_container"
+        android:layout_marginTop="20sp"
+        android:layout_marginRight="8sp"
+        android:layout_marginBottom="@dimen/dp_3"
+        android:id="@+id/promoly">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:background="@drawable/rectanglepromo"
+                android:layout_width="match_parent"
+                android:layout_height="120sp"
+                android:gravity="center"
+                android:textColor="#000"
+                android:textStyle="bold"
+                android:fontFamily="serif"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="12sp"
+                android:layout_marginLeft="5sp"
+                />
+
+          <LinearLayout
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_centerInParent="true"
+              android:layout_marginTop="5sp"
+              android:orientation="vertical"
+              >
+
+
+              <LinearLayout
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:orientation="horizontal">
+                  <TextView
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:text="Promocode"
+                      android:textStyle="bold"
+                      android:fontFamily="serif"
+                      android:textColor="#000"/>
+                  <TextView
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:text="EC2"
+                      android:id="@+id/tv_text"
+                      android:textStyle="bold"
+                      android:fontFamily="serif"
+                      android:layout_marginLeft="@dimen/dp_20"
+                      android:textColor="@color/com_facebook_messenger_blue"/>
+
+              </LinearLayout>
+
+
+              <LinearLayout
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:orientation="horizontal">
+
+
+
+              <TextView
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="maxDiscount"
+                  android:textStyle="bold"
+                  android:fontFamily="serif"
+                  android:textColor="#000"/>
+
+              <TextView
+                  android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:text="50%"
+                  android:id="@+id/maxdiscount"
+                  android:textStyle="bold"
+                  android:fontFamily="serif"
+                  android:layout_marginLeft="@dimen/dp_12"
+                  android:textColor="@color/com_facebook_button_send_background_color_pressed"/>
+              </LinearLayout>
+          </LinearLayout>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/tv_remove"
+                android:text="Remove"
+                android:padding="@dimen/dp_2"
+                android:textSize="@dimen/dp_20"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:fontFamily="serif"
+
+
+                />
+
+
+        </RelativeLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="25sp"
+            android:background="#000"
+            android:layout_gravity="center|top"
+            android:orientation="horizontal"
+            android:id="@+id/lyoutoff"
+
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="10"
+                android:id="@+id/tv_discount"
+                android:textColor="#fff"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:background="#000"
+                android:layout_marginStart="@dimen/dp_3"
+               android:layout_alignParentLeft="true"
+                android:textSize="15sp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="% OFF"
+                android:layout_gravity="center"
+                android:textColor="#fff"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:layout_marginEnd="@dimen/dp_3"
+                android:background="#000"
+                android:textSize="15sp"
+                />
+
+        </LinearLayout>
+
+
+
+
+
+
+    </FrameLayout>
+
+
+
+</RelativeLayout>

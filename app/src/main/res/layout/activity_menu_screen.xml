@@ -1,0 +1,136 @@
+<layout>
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        tools:context="com.example.fluper.larika_user_app.activity.MenuScreenActivity">
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:background="@drawable/white_circle_cross">
+            <ImageView
+                android:id="@+id/iv_cross"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:padding="12dp"
+                android:src="@mipmap/cross_white" />
+
+        </RelativeLayout>
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true">
+
+            <ImageView
+                android:padding="@dimen/dp_10"
+                android:id="@+id/header"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_50"
+                android:gravity="center"
+                android:src="@mipmap/logo_p"/>
+
+            <View
+                android:id="@+id/view1"
+                android:layout_width="@dimen/dp_200"
+                android:layout_height="@dimen/dp_0.67"
+                android:background="@color/view_menu_color"
+                android:layout_below="@+id/header"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/dp_50" />
+
+            <com.example.fluper.larika_user_app.fonts.MonstratLightTextView
+                android:id="@+id/tv_order"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/view1"
+                android:layout_marginTop="@dimen/dp_15"
+                android:layout_marginBottom="@dimen/dp_5"
+                android:gravity="center"
+                android:text="ORDERS"
+                android:textColor="@color/white"
+                android:textSize="@dimen/sp_14" />
+
+            <View
+                android:id="@+id/view2"
+                android:layout_width="@dimen/dp_200"
+                android:layout_below="@+id/tv_order"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/dp_10"
+                android:layout_height="@dimen/dp_0.67"
+                android:background="@color/view_menu_color" />
+
+            <com.example.fluper.larika_user_app.fonts.MonstratLightTextView
+                android:id="@+id/tv_payments"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/view2"
+                android:layout_marginTop="@dimen/dp_15"
+                android:layout_marginBottom="@dimen/dp_5"
+                android:gravity="center"
+                android:text="PAYMENTS"
+                android:textColor="@color/white"
+                android:textSize="@dimen/sp_14" />
+
+            <View
+                android:id="@+id/view3"
+                android:layout_width="@dimen/dp_200"
+                android:layout_below="@+id/tv_payments"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/dp_10"
+                android:layout_height="@dimen/dp_0.67"
+                android:background="@color/view_menu_color" />
+
+            <com.example.fluper.larika_user_app.fonts.MonstratLightTextView
+                android:id="@+id/tv_account"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/view3"
+                android:layout_marginTop="@dimen/dp_15"
+                android:layout_marginBottom="@dimen/dp_5"
+                android:gravity="center"
+                android:text="ACCOUNT"
+                android:textColor="@color/white"
+                android:textSize="@dimen/sp_14" />
+
+            <View
+                android:id="@+id/view4"
+                android:layout_width="@dimen/dp_200"
+                android:layout_below="@+id/tv_account"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/dp_10"
+                android:layout_height="@dimen/dp_0.67"
+                android:background="@color/view_menu_color" />
+
+            <com.example.fluper.larika_user_app.fonts.MonstratLightTextView
+                android:id="@+id/tv_wntsell"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/view4"
+                android:layout_marginTop="@dimen/dp_15"
+                android:layout_marginBottom="@dimen/dp_5"
+                android:gravity="center"
+                android:text="I WANT TO SELL"
+                android:textColor="@color/white"
+                android:textSize="@dimen/sp_14" />
+
+            <View
+                android:id="@+id/view5"
+                android:layout_width="@dimen/dp_200"
+                android:layout_below="@+id/tv_wntsell"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/dp_10"
+                android:layout_height="@dimen/dp_0.67"
+                android:background="@color/view_menu_color" />
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+</layout>

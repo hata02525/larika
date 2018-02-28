@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent">
+
+    <RelativeLayout
+        android:id="@+id/rl_dialogLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rectangle_white_border">
+
+        <com.example.fluper.larika_user_app.fonts.MonstratLightTextView
+            android:id="@+id/tv_all"
+            android:layout_width="@dimen/dp_200"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/rectangle_white_border"
+            android:gravity="center"
+            android:padding="@dimen/dp_10"
+            android:clickable="true"
+            android:text="ALL"
+            android:textColor="@color/white"
+            android:textSize="@dimen/sp_18" />
+
+        <com.example.fluper.larika_user_app.fonts.MonstratLightTextView
+            android:id="@+id/tv_savry"
+            android:layout_width="@dimen/dp_200"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_all"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/dp_20"
+            android:gravity="center"
+            android:padding="@dimen/dp_10"
+            android:text="SAVORY"
+            android:textColor="@color/white"
+            android:textSize="@dimen/sp_18" />
+
+        <com.example.fluper.larika_user_app.fonts.MonstratLightTextView
+            android:id="@+id/tv_sweet"
+            android:layout_width="@dimen/dp_200"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_savry"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/dp_20"
+            android:gravity="center"
+            android:padding="@dimen/dp_10"
+            android:text="SWEET"
+            android:textColor="@color/white"
+            android:textSize="@dimen/sp_18" />
+
+        <View
+            android:id="@+id/gdfgg"
+            android:layout_width="@dimen/dp_10"
+            android:layout_height="@dimen/dp_10"
+            android:layout_below="@+id/tv_sweet"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/dp_10"
+            android:background="@drawable/white_circle" />
+
+        <com.example.fluper.larika_user_app.fonts.MonstratLightTextView
+            android:id="@+id/tv_veg"
+            android:layout_width="@dimen/dp_200"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/gdfgg"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/dp_20"
+            android:gravity="center"
+            android:padding="@dimen/dp_10"
+            android:text="VEGETARIAN"
+            android:textColor="@color/white"
+            android:textSize="@dimen/sp_18" />
+
+        <com.example.fluper.larika_user_app.fonts.MonstratLightTextView
+            android:id="@+id/tv_fitness"
+            android:layout_width="@dimen/dp_200"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_veg"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/dp_20"
+            android:gravity="center"
+            android:padding="@dimen/dp_10"
+            android:text="FITNESS"
+            android:textColor="@color/white"
+            android:textSize="@dimen/sp_18" />
+
+        <com.example.fluper.larika_user_app.fonts.MonstratLightTextView
+            android:id="@+id/tv_greasy"
+            android:layout_width="@dimen/dp_200"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_fitness"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/dp_20"
+            android:gravity="center"
+            android:padding="@dimen/dp_10"
+            android:text="GREASY"
+            android:textColor="@color/white"
+            android:textSize="@dimen/sp_18" />
+
+    </RelativeLayout>
+</RelativeLayout>

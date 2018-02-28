@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/prome_layout"
+    tools:context="com.example.fluper.larika_user_app.activity.ShowPromoCodeActivity">
+    <RelativeLayout
+        android:id="@+id/main_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/black"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true">
+
+        <ImageView
+            android:id="@+id/iv_backs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dp_10"
+            android:padding="@dimen/dp_10"
+            android:src="@mipmap/back_white" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/iv_backs"
+            android:layout_marginLeft="@dimen/dp_10"
+            android:padding="@dimen/dp_5"
+            android:layout_marginBottom="@dimen/dp_10"
+            android:text="Promocode"
+            android:textColor="@color/white"
+            android:textSize="@dimen/sp_18" />
+    </RelativeLayout>
+
+
+    <TextView
+        android:layout_alignParentBottom="true"
+        android:id="@+id/tv_send"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginBottom="@dimen/dp_12"
+        android:layout_marginLeft="@dimen/dp_12"
+        android:layout_marginRight="@dimen/dp_12"
+        android:background="@color/black"
+        android:elevation="@dimen/dp_2"
+        android:gravity="center"
+        android:padding="@dimen/dp_10"
+        android:text="Get promo"
+        android:textColor="@color/white"
+        android:textSize="@dimen/sp_16" />
+    <TextView
+        android:id="@+id/tv_add_promo_text"
+        android:layout_below="@+id/main_container"
+        android:layout_marginTop="@dimen/dp_16"
+        android:layout_marginLeft="@dimen/dp_16"
+        android:text="Add promocode"
+        android:textSize="@dimen/sp_16"
+        android:textColor="@color/text_color"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <RelativeLayout
+        android:layout_marginTop="@dimen/dp_8"
+        android:layout_marginLeft="@dimen/dp_8"
+        android:layout_marginRight="@dimen/dp_8"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/tv_add_promo_text"
+        android:background="@drawable/rect_black_shape">
+        <EditText
+            android:id="@+id/et_your_code"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:maxLength="15"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/dp_8"
+            android:textSize="@dimen/sp_16"
+            android:background="@android:color/transparent"
+            android:hint="Your code"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent">
+
+    <ImageView
+        android:background="@android:color/transparent"
+        android:id="@+id/iv_cross"
+        android:layout_width="@dimen/dp_25"
+        android:layout_height="@dimen/dp_25"
+        android:layout_centerHorizontal="true"
+        android:src="@mipmap/cross_white"
+        android:layout_marginBottom="@dimen/dp_40"/>
+
+
+</RelativeLayout>

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/values/values.xml",
+                    "from": {
+                        "startLines": "2,237,238,239,240,241,242,249",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,5609,5658,5706,5757,11848,11891,12182",
+                        "endLines": "236,237,238,239,240,241,248,251",
+                        "endColumns": "15,48,47,50,6090,42,12,12",
+                        "endOffsets": "5604,5653,5701,5752,11843,11886,12177,12337"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,217 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dull_white"
+    tools:context="com.example.fluper.larika_user_app.fragment.LoginFragment">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/dp_10"
+        android:id="@+id/relatively"
+        >
+
+        <RelativeLayout
+            android:id="@+id/khsriohe"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dp_20"
+            android:layout_marginRight="@dimen/dp_20"
+            android:layout_marginTop="@dimen/dp_20"
+            android:background="@mipmap/fb">
+
+            <TextView
+                android:background="?attr/selectableItemBackground"
+                android:id="@+id/tv_facebook"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="@dimen/dp_10"
+                android:text="Login with Facebook"
+                android:textColor="@color/white"
+                android:textSize="@dimen/sp_15" />
+        </RelativeLayout>
+
+
+        <TextView
+            android:id="@+id/extraView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/khsriohe"
+            android:gravity="center"
+            android:padding="@dimen/dp_10"
+            android:text="or by email"
+            android:textColor="@color/black_grey_tint"
+            android:textSize="@dimen/sp_15" />
+
+        <TextView
+            android:id="@+id/fsdfsdf"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/extraView"
+            android:layout_marginLeft="@dimen/dp_10"
+            android:gravity="center_vertical"
+            android:padding="@dimen/dp_10"
+            android:text="Email"
+            android:textColor="@color/black"
+            android:textSize="@dimen/sp_16" />
+
+        <View
+            android:id="@+id/sdfdf"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_1.5"
+            android:layout_below="@+id/fsdfsdf"
+            android:background="@color/black_grey_tint" />
+
+        <RelativeLayout
+            android:id="@+id/retret"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/sdfdf"
+            android:background="@color/white">
+
+            <EditText
+                android:id="@+id/et_email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dp_10"
+                android:layout_marginTop="@dimen/dp_5"
+                android:background="@null"
+                android:cursorVisible="true"
+                android:hint="Your full email here"
+                android:imeOptions="actionNext"
+                android:inputType="textEmailAddress"
+                android:maxLines="1"
+                android:paddingBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingTop="5dp"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black_grey_tint"
+                android:textCursorDrawable="@drawable/text_cursr_blink"
+                android:textSize="@dimen/sp_15"
+                />
+
+            <View
+                android:id="@+id/gtrt"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_1.5"
+                android:layout_below="@+id/et_email"
+                android:layout_marginTop="@dimen/dp_5"
+                android:background="@color/black_grey_tint" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/gfdgg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/retret"
+            android:layout_marginLeft="@dimen/dp_10"
+            android:layout_marginTop="@dimen/dp_10"
+            android:padding="@dimen/dp_10"
+            android:text="Password"
+            android:textColor="@color/black"
+            android:textSize="@dimen/sp_16" />
+
+        <View
+            android:id="@+id/gfsdfsdgtrt"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_1.5"
+            android:layout_below="@+id/gfdgg"
+            android:background="@color/black_grey_tint" />
+
+        <RelativeLayout
+            android:id="@+id/retre5435t"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/gfsdfsdgtrt"
+            android:background="@color/white">
+
+            <EditText
+                android:id="@+id/et_passwrd"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dp_10"
+                android:layout_marginTop="@dimen/dp_5"
+                android:background="@null"
+                android:cursorVisible="true"
+                android:hint="Your password here"
+                android:imeOptions="actionDone"
+                android:inputType="textPassword"
+                android:maxLength="16"
+                android:maxLines="1"
+                android:paddingBottom="5dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingTop="5dp"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black_grey_tint"
+                android:textCursorDrawable="@drawable/text_cursr_blink"
+                android:textSize="@dimen/sp_15" />
+
+            <View
+                android:id="@+id/gfsdftrt"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_1.5"
+                android:layout_below="@+id/et_passwrd"
+                android:layout_marginTop="@dimen/dp_5"
+                android:background="@color/black_grey_tint" />
+
+
+        </RelativeLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Forgot password ?"
+            android:id="@+id/forgot_password"
+            android:textSize="15sp"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="10sp"
+            android:padding="10sp"
+            android:textColor="#000"
+            android:layout_marginRight="10sp"
+            android:layout_below="@+id/retre5435t"/>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/retre5435t"
+            android:layout_alignParentBottom="true">
+
+            <TextView
+                android:id="@+id/tv_login"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/dp_10"
+                android:layout_marginLeft="@dimen/dp_20"
+                android:layout_marginRight="@dimen/dp_20"
+                android:layout_marginTop="@dimen/dp_60"
+                android:background="@color/black"
+                android:gravity="center"
+                android:padding="@dimen/dp_10"
+                android:text="Login"
+                android:textColor="@color/white"
+                android:textSize="@dimen/sp_16" />
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+    </ScrollView>
+
+
+
+</RelativeLayout>

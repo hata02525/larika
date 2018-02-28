@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.fluper.larika_user_app.activity.MapActivity">
+
+    <!--<FrameLayout-->
+        <!--android:id="@+id/fl_mapView"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"/>-->
+
+    <RelativeLayout
+        android:id="@+id/confirm_address_map_wrapper"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <FrameLayout
+            android:id="@+id/fl_mapView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+        <!-- Image View that acts as map marker notice centerInParent-->
+        <ImageView
+            android:id="@+id/confirm_address_map_custom_marker"
+            android:layout_width="@dimen/dp_50"
+            android:layout_height="@dimen/dp_50"
+            android:layout_centerInParent="true"
+            android:src="@mipmap/pin"/>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@color/light_blue">
+
+            <TextView
+                android:id="@+id/tv_mapView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/dp_14"
+                android:gravity="center"
+                android:layout_centerInParent="true"
+                android:singleLine="true"
+                android:textColor="@color/black"
+                android:textSize="@dimen/sp_14" />
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/dp_10"
+        android:background="@drawable/circle_black">
+
+        <ImageView
+            android:id="@+id/iv_cross"
+            android:padding="@dimen/dp_10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/cross_white" />
+
+
+    </RelativeLayout>
+    <ImageView
+        android:id="@+id/iv_current_location"
+        android:padding="@dimen/dp_10"
+        android:layout_margin="@dimen/dp_10"
+        android:layout_gravity="end"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/de_my_loca" />
+
+
+</FrameLayout>

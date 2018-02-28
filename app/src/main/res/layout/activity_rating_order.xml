@@ -1,0 +1,333 @@
+<layout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        tools:context="com.example.fluper.larikapro.activity.RatingOrderActivity">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/dull_white">
+            <RelativeLayout
+                android:id="@+id/rl_top"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/black"
+                >
+
+
+                <TextView
+                    android:id="@+id/header"
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/iv_back"
+                    android:layout_marginLeft="@dimen/dp_10"
+                    android:layout_centerVertical="true"
+                    android:padding="@dimen/dp_10"
+                    android:text="Your order was completed"
+                    android:textColor="@color/white"
+                    android:drawablePadding="@dimen/dp_10"
+                    android:drawableLeft="@mipmap/cnfrm"
+                    android:textSize="@dimen/sp_20"
+                    android:layout_marginBottom="@dimen/dp_40"/>
+
+            </RelativeLayout>
+            <android.support.v7.widget.CardView
+                android:id="@+id/cardView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/rl_top"
+                android:layout_marginTop="@dimen/dp_10"
+                android:layout_marginRight="@dimen/dp_10"
+                android:layout_marginLeft="@dimen/dp_10"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="@dimen/dp_2"
+                app:cardElevation="@dimen/dp_5">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <RelativeLayout
+                        android:id="@+id/fweret"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+                        <TextView
+                            android:layout_margin="4dp"
+                            android:layout_centerVertical="true"
+                            android:id="@+id/tv_timee"
+                            android:text="time"
+                            android:background="@drawable/time_shape"
+                            android:textSize="@dimen/sp_12"
+                            android:padding="@dimen/dp_10"
+                            android:gravity="center"
+                            android:textColor="@color/white"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+                        <TextView
+                            android:layout_toEndOf="@+id/tv_timee"
+                            android:id="@+id/tv_name"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/dp_10"
+                            android:padding="@dimen/dp_10"
+                            android:text="Fernanda"
+                            android:textColor="@color/black"
+                            android:textSize="@dimen/sp_20"
+                            android:textStyle="bold" />
+
+                        <ImageView
+                            android:visibility="gone"
+                            android:id="@+id/iv_arrow"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginRight="@dimen/dp_10"
+                            android:src="@mipmap/right_arrow" />
+                    </RelativeLayout>
+
+
+                    <View
+                        android:id="@+id/gerter"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/dp_1"
+                        android:layout_below="@+id/fweret"
+                        android:background="@color/black_grey_tint" />
+
+                    <RelativeLayout
+                        android:id="@+id/frweret"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/gerter"
+                        android:layout_marginTop="@dimen/dp_5">
+
+                        <TextView
+                            android:visibility="gone"
+                            android:id="@+id/tv_time"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/dp_10"
+                            android:paddingLeft="@dimen/dp_10"
+                            android:paddingTop="@dimen/dp_10"
+                            android:text="Today, at 12:30 PM"
+                            android:textColor="@color/black"
+                            android:textSize="@dimen/sp_15"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginRight="@dimen/dp_10"
+                            android:paddingTop="@dimen/dp_10"
+                            android:text="Delayed"
+                            android:visibility="gone"
+                            android:textColor="@color/red"
+                            android:textStyle="bold" />
+                    </RelativeLayout>
+
+                    <TextView
+                        android:paddingTop="@dimen/dp_10"
+                        android:id="@+id/tv_locationName"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/gerter"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/dp_10"
+                        android:layout_marginTop="5dp"
+                        android:paddingLeft="@dimen/dp_10"
+                        android:text="Meet at Kennedy Building"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/sp_15"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:id="@+id/fertet"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/dp_1"
+                        android:layout_below="@+id/tv_locationName"
+                        android:layout_marginTop="@dimen/dp_20"
+                        android:background="@color/black_grey_tint" />
+
+                    <RelativeLayout
+                        android:id="@+id/yruru"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/fertet"
+                        android:layout_marginTop="@dimen/dp_5">
+
+                        <TextView
+                            android:id="@+id/tv_dishName"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/dp_10"
+                            android:maxLines="1"
+                            android:padding="@dimen/dp_10"
+                            android:text="Brigadeiros com um nome beam"
+                            android:textColor="@color/black_grey"
+                            android:textSize="@dimen/sp_15" />
+
+                        <TextView
+                            android:id="@+id/tv_dishPrice"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:padding="@dimen/dp_10"
+                            android:text="R$ 3,000"
+                            android:textColor="@color/black_grey" />
+                    </RelativeLayout>
+
+                    <View
+                        android:visibility="gone"
+                        android:id="@+id/teytryt"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/dp_1"
+                        android:layout_below="@+id/yruru"
+                        android:background="@color/black_grey_tint" />
+
+                    <RelativeLayout
+                        android:visibility="gone"
+                        android:id="@+id/retert"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/teytryt"
+                        android:layout_marginTop="@dimen/dp_5">
+
+                        <TextView
+                            android:id="@+id/twttr"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/dp_10"
+                            android:maxLines="1"
+                            android:padding="@dimen/dp_10"
+                            android:text="Orange Juice"
+                            android:textColor="@color/black_grey"
+                            android:textSize="@dimen/sp_15" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:padding="@dimen/dp_10"
+                            android:text="R$ 5,00"
+                            android:textColor="@color/black_grey" />
+                    </RelativeLayout>
+
+                    <View
+                        android:visibility="gone"
+                        android:id="@+id/ertter"
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/dp_1"
+                        android:layout_below="@+id/retert"
+                        android:background="@color/black_grey_tint" />
+
+                    <RelativeLayout
+                        android:visibility="gone"
+                        android:id="@+id/yyyyrt"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/ertter"
+                        android:layout_marginTop="@dimen/dp_5">
+
+                        <TextView
+                            android:id="@+id/yutjgj"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/dp_10"
+                            android:maxLines="1"
+                            android:padding="@dimen/dp_10"
+                            android:text="Brigadeiros"
+                            android:textColor="@color/black_grey"
+                            android:textSize="@dimen/sp_15" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:padding="@dimen/dp_10"
+                            android:text="R$ 1000"
+                            android:textColor="@color/black_grey" />
+                    </RelativeLayout>
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+
+
+
+
+            <Button
+                android:layout_alignParentBottom="true"
+                android:id="@+id/btn_send"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dp_45"
+                android:background="@color/light_blue"
+                android:text="Rate"
+                android:textAllCaps="false"
+                android:textColor="@color/black"
+                android:textSize="@dimen/dp_16"
+                android:layout_marginLeft="@dimen/dp_20"
+                android:layout_marginBottom="@dimen/dp_20"
+                android:layout_marginRight="@dimen/sp_20"/>
+            <RatingBar
+                android:id="@+id/rating"
+                android:visibility="gone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dp_20"
+                android:layout_marginBottom="@dimen/dp_20"
+                android:layout_marginRight="@dimen/sp_20"
+                android:layout_centerHorizontal="true"
+                android:rating="5"
+                android:numStars="5"
+                android:layout_above="@+id/btn_send"/>
+
+            <!--<RatingBar-->
+                <!--android:id="@+id/ratingg"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:layout_above="@+id/btn_send"-->
+                <!--android:layout_marginBottom="@dimen/dp_20"-->
+                <!--android:layout_marginLeft="@dimen/dp_20"-->
+                <!--android:layout_marginRight="@dimen/sp_20"-->
+                <!--android:numStars="5"-->
+                <!--android:layout_centerHorizontal="true"-->
+                <!--android:progressDrawable="@drawable/costom_rating_bar_selector"-->
+                <!--android:rating="3.0"-->
+                <!--android:stepSize="1" />-->
+
+
+            <RatingBar
+                android:id="@+id/ratingg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dp_20"
+                android:layout_marginBottom="@dimen/dp_20"
+                android:layout_marginRight="@dimen/sp_20"
+                android:layout_above="@+id/btn_send"
+                android:theme="@style/RatingBar"
+                android:layout_centerHorizontal="true"
+                android:rating="0"
+                android:numStars="5" />
+            <TextView
+                android:layout_above="@+id/rating"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="@dimen/dp_10"
+                android:textColor="@color/text_color"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rate the product "/>
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</layout>
+

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black"
+        tools:context="com.example.fluper.larikapro.activity.SettingActivity">
+
+        <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dp_10"
+            android:padding="@dimen/dp_10"
+            android:layout_marginTop="@dimen/dp_20"
+            android:src="@mipmap/back_white" />
+
+        <TextView
+            android:id="@+id/header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/iv_back"
+            android:layout_marginLeft="@dimen/dp_10"
+            android:padding="@dimen/dp_10"
+            android:layout_marginBottom="@dimen/dp_10"
+            android:text="Settings"
+            android:textColor="@color/white"
+            android:textSize="@dimen/sp_16" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/header"
+            android:background="@color/white">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/dull_white"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentStart="true">
+
+                <View
+                    android:id="@+id/etertetr"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dp_1"
+                    android:layout_marginTop="@dimen/dp_40"
+                    android:background="@color/black_grey_tint" />
+
+                <RelativeLayout
+                    android:id="@+id/rwetrtt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/etertetr"
+                    android:background="@color/white"
+                    >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:padding="@dimen/dp_15"
+                        android:text="News notification"
+                        android:textColor="@color/black"
+                        android:textSize="@dimen/sp_15" />
+
+                    <!--<Switch
+                        android:id="@+id/notification_switch"
+                        android:layout_width="0dp"
+                        android:layout_gravity="center_vertical"
+                        android:layout_height="wrap_content"
+                        android:theme="@style/SCBSwitch"
+                        android:layout_marginRight="@dimen/dp_20"
+                        android:layout_weight="20" />-->
+
+
+
+<RelativeLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_vertical"
+    android:layout_alignParentRight="true"
+    android:layout_centerInParent="true"
+    android:gravity="center"
+    android:layout_marginRight="@dimen/dp_20"
+    >
+
+    <com.suke.widget.SwitchButton
+        android:id="@+id/notification_switch"
+        android:layout_width="wrap_content"
+        android:layout_marginRight="@dimen/dp_20"
+        android:layout_height="wrap_content"
+        app:sb_show_indicator="false"
+        app:sb_checked_color="@color/black"
+        app:sb_background="@color/dull_white"
+
+
+        />
+</RelativeLayout>
+
+                </RelativeLayout>
+
+                <View
+                    android:id="@+id/tertre"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dp_1"
+                    android:layout_below="@+id/rwetrtt"
+                    android:background="@color/black_grey_tint" />
+
+                <View
+                    android:id="@+id/rwettt"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dp_1"
+                    android:layout_below="@+id/tertre"
+                    android:layout_marginTop="@dimen/dp_20"
+                    android:background="@color/black_grey_tint" />
+
+                <TextView
+                    android:id="@+id/tv_trms"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/rwettt"
+                    android:background="@color/white"
+                    android:drawableRight="@mipmap/right_arrow"
+                    android:gravity="center_vertical"
+                    android:padding="@dimen/dp_10"
+                    android:text="Terms and conditions"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/sp_15" />
+
+                <View
+                    android:id="@+id/treey"
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/dp_1"
+                    android:layout_below="@+id/tv_trms"
+                    android:background="@color/black_grey_tint" />
+            </RelativeLayout>
+
+
+            <!--<TextView-->
+            <!--android:layout_width=""-->
+            <!--android:layout_height="" />-->
+
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+</layout>

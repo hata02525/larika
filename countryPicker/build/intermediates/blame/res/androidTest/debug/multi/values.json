@@ -1,0 +1,165 @@
+[
+    {
+        "outputFile": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 236,
+                    "endColumn": 15,
+                    "endOffset": 5604
+                },
+                "from": {
+                    "file": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 236,
+                        "endColumn": 15,
+                        "endOffset": 5604
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 5609,
+                    "endColumn": 48,
+                    "endOffset": 5653
+                },
+                "from": {
+                    "file": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 237,
+                        "startColumn": 4,
+                        "startOffset": 5609,
+                        "endColumn": 48,
+                        "endOffset": 5653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 5658,
+                    "endColumn": 47,
+                    "endOffset": 5701
+                },
+                "from": {
+                    "file": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 238,
+                        "startColumn": 4,
+                        "startOffset": 5658,
+                        "endColumn": 47,
+                        "endOffset": 5701
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 5706,
+                    "endColumn": 50,
+                    "endOffset": 5752
+                },
+                "from": {
+                    "file": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 239,
+                        "startColumn": 4,
+                        "startOffset": 5706,
+                        "endColumn": 50,
+                        "endOffset": 5752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 5757,
+                    "endColumn": 6090,
+                    "endOffset": 11843
+                },
+                "from": {
+                    "file": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 240,
+                        "startColumn": 4,
+                        "startOffset": 5757,
+                        "endColumn": 6090,
+                        "endOffset": 11843
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 11848,
+                    "endColumn": 42,
+                    "endOffset": 11886
+                },
+                "from": {
+                    "file": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 241,
+                        "startColumn": 4,
+                        "startOffset": 11848,
+                        "endColumn": 42,
+                        "endOffset": 11886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 11891,
+                    "endLine": 248,
+                    "endColumn": 12,
+                    "endOffset": 12177
+                },
+                "from": {
+                    "file": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 242,
+                        "startColumn": 4,
+                        "startOffset": 11891,
+                        "endLine": 248,
+                        "endColumn": 12,
+                        "endOffset": 12177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 12182,
+                    "endLine": 251,
+                    "endColumn": 12,
+                    "endOffset": 12337
+                },
+                "from": {
+                    "file": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 249,
+                        "startColumn": 4,
+                        "startOffset": 12182,
+                        "endLine": 251,
+                        "endColumn": 12,
+                        "endOffset": 12337
+                    }
+                }
+            }
+        ]
+    }
+]

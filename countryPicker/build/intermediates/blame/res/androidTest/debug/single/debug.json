@@ -1,0 +1,1018 @@
+[
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_mc.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_mc.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_bn.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_bn.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_eg.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_eg.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_no.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_no.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_il.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_il.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_mq.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_mq.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_py.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_py.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_cl.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_cl.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_gq.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_gq.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_kh.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_kh.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_sc.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_sc.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_re.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_re.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_sr.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_sr.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_pk.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_pk.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_om.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_om.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_eh.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_eh.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ac.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ac.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_mr.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_mr.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_bm.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_bm.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_im.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_im.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_kw.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_kw.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_md.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_md.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_aq.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_aq.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ls.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ls.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_rs.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_rs.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_hn.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_hn.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_sb.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_sb.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_to.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_to.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ki.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ki.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_na.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_na.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_fr.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_fr.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_gd.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_gd.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_cz.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_cz.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_yt.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_yt.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_pl.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_pl.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_pw.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_pw.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_cx.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_cx.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ar.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ar.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_hm.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_hm.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_cm.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_cm.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ye.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ye.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ad.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ad.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_es.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_es.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_sa.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_sa.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_in.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_in.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_mt.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_mt.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_gp.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_gp.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_sd.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_sd.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_nc.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_nc.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_search_icon.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/search_icon.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ge.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ge.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_tm.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_tm.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_bo.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_bo.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_lc.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_lc.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ao.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ao.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ba.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ba.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_gb.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_gb.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_mf.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_mf.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_gs.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_gs.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_lt.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_lt.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_dj.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_dj.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_nz.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_nz.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ru.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ru.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_um.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_um.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_dm.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_dm.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ca.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ca.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_sn.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_sn.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_li.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_li.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_by.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_by.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_tl.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_tl.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_er.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_er.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_vg.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_vg.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_gf.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_gf.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_cv.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_cv.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_mg.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_mg.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_af.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_af.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_fo.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_fo.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_kr.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_kr.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_gm.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_gm.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_mn.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_mn.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ky.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ky.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ne.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ne.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_so.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_so.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_tk.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_tk.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_pf.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_pf.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_gg.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_gg.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_zm.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_zm.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_iq.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_iq.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_tr.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_tr.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_va.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_va.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_bz.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_bz.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ee.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ee.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_rw.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_rw.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_uy.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_uy.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_mh.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_mh.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_lv.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_lv.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_km.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_km.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ma.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ma.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_jo.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_jo.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_si.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_si.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_cf.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_cf.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ht.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ht.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_dz.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_dz.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_tf.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_tf.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_uz.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_uz.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ga.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ga.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_lu.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_lu.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_gr.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_gr.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_st.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_st.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_bb.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_bb.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_bs.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_bs.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_sh.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_sh.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ms.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ms.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_bh.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_bh.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_fi.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_fi.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ck.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ck.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_gl.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_gl.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_gw.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_gw.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_yu.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_yu.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_za.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_za.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ir.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ir.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_kg.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_kg.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ae.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ae.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_mm.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_mm.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_pe.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_pe.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_np.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_np.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ie.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ie.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_zw.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_zw.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_sy.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_sy.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_th.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_th.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_sk.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_sk.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_tw.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_tw.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_pr.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_pr.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_mx.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_mx.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ax.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ax.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_vc.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_vc.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ai.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ai.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_bg.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_bg.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_is.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_is.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_mk.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_mk.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_bf.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_bf.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_fk.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_fk.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ng.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ng.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_sz.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_sz.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_hu.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_hu.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_aw.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_aw.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_bt.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_bt.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_kp.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_kp.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_sl.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_sl.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_tv.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_tv.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_nu.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_nu.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_it.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_it.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_jp.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_jp.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_my.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_my.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/layout_row.xml.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/layout/row.xml"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_bw.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_bw.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_nf.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_nf.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ml.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ml.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_fj.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_fj.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_do.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_do.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_bi.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_bi.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/layout_country_picker.xml.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/layout/country_picker.xml"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ly.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ly.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_je.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_je.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ag.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ag.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ve.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ve.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ro.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ro.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_us.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_us.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_pa.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_pa.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_fx.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_fx.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_xk.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_xk.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_mz.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_mz.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_az.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_az.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_sm.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_sm.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_au.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_au.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_gh.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_gh.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_gy.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_gy.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_lk.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_lk.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ug.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ug.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_cr.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_cr.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_fm.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_fm.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_bd.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_bd.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_cg.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_cg.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_tg.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_tg.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_al.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_al.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_sj.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_sj.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ni.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ni.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_mw.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_mw.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ws.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ws.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_qa.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_qa.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_cu.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_cu.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_cd.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_cd.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_br.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_br.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_kn.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_kn.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_sg.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_sg.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_tj.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_tj.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_at.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_at.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_pn.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_pn.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ch.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ch.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_hr.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_hr.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_am.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_am.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_mu.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_mu.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_pg.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_pg.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_lb.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_lb.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_bj.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_bj.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_la.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_la.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_nl.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_nl.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_td.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_td.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_tz.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_tz.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_co.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_co.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_hk.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_hk.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_gt.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_gt.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_pm.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_pm.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_de.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_de.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_pt.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_pt.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_sv.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_sv.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ke.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ke.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_mv.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_mv.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_jm.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_jm.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ua.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ua.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_vn.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_vn.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_nr.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_nr.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_kz.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_kz.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_gu.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_gu.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_mo.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_mo.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_gn.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_gn.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ci.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ci.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_vu.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_vu.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_vi.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_vi.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_tc.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_tc.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_be.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_be.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_lr.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_lr.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_se.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_se.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_me.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_me.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ps.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ps.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_an.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_an.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_tn.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_tn.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_cc.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_cc.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_cy.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_cy.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_dk.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_dk.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_wf.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_wf.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_bv.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_bv.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_tt.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_tt.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_id.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_id.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_io.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_io.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_as.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_as.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_mp.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_mp.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ph.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ph.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_cn.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_cn.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_gi.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_gi.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_ec.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_ec.png"
+    },
+    {
+        "merged": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_flag_et.png.flat",
+        "source": "/home/fluper-pc/Documents/PrashantProjects/larikaV1.0/countryPicker/build/intermediates/bundles/debug/res/drawable-hdpi-v4/flag_et.png"
+    }
+]

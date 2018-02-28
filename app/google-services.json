@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "174673208208",
+    "firebase_url": "https://larikausers.firebaseio.com",
+    "project_id": "larikausers",
+    "storage_bucket": "larikausers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174673208208:android:33fc0282511688b4",
+        "android_client_info": {
+          "package_name": "com.example.fluper.larika_user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174673208208-gadjmulsghc4ciech4ahh6gnnne3qn2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fluper.larika_user_app",
+            "certificate_hash": "b1731ce7367a6fab0743bae71ba30abd0ff75e8f"
+          }
+        },
+        {
+          "client_id": "174673208208-vnckvkc4iba007quf3rbu39g0757rkar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp_aTwV5WGpqXGw4tE8j2iAQqHKo8b1rI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174673208208-vnckvkc4iba007quf3rbu39g0757rkar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

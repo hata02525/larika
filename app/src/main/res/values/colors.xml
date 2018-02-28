@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#000000</color>
+    <color name="black_grey">#696969</color>
+    <color name="black_grey_tint">#9ea3a1a1</color>
+    <color name="dull_white">#2dcccccc</color>
+    <color name="fontColor">#454545</color>
+    <color name="white">#ffffff</color>
+    <color name="button_bg_color">#ddf9d75f</color>
+    <color name="bottom_sheet_bg_color">#fecaae4a</color>
+    <color name="bg_g_plus">#eb2324</color>
+    <color name="bg_fb">#2348eb</color>
+    <color name="black_transparent">#b1000000</color>
+    <color name="menu_drawer_bg_color">#efefef</color>
+    <color name="green">#09501e</color>
+    <color name="black_trns">#cc161616</color>
+    <color name="black">#000000</color>
+    <color name="light_blue">#25c1a7</color>
+    <color name="fb_btncolor">#5a7bbc</color>
+    <color name="bg_null">#12ffffff</color>
+    <color name="account_color">#6C6C6C</color>
+    <color name="text_color">#454545</color>
+    <color name="view_menu_color">#939393</color>
+    <color name="red">#eb2324</color>
+    <color name="dish_color">#999999</color>
+
+
+</resources>

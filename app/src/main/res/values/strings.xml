@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Larika User</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="facebook_app_id">1697080070332800</string>
+    <string name="alphabate_only">ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz</string>
+    <string name="history">History</string>
+    <string name="on_the_go">On the go</string>
+    <string name="payment">Payment</string>
+    <string name="valid_card_number">Enter valid card number</string>
+    <string name="empty_card">Please enter card number</string>
+    <string name="empty_card_expiry">Please enter expiry date</string>
+    <string name="valid_expiry">Enter valid expiry date</string>
+    <string name="empty_card_user_name">Please enter name</string>
+    <string name="Meet_today">Meet today</string>
+    <string name="delete_product">0</string>
+    <string name="add_product">1</string>
+    <string name="cross_image">cross_image</string>
+    <string name="discount_description">You have earned 10% discount on your next
+purchase. Valid only for discounts of up to
+R$10,00."</string>
+    <string name="select_meeting_point_time">Please select meeting point time</string>
+    <string name="no_promocode">No promocode</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+</resources>
